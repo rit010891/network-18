@@ -1,0 +1,5 @@
+{	
+	"linkLogin": {
+		"ANDROID": "xpath=//*[@id='header_user_icon_img']"
+		}
+}
