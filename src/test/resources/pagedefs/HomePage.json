@@ -1,0 +1,11 @@
+{
+	"searchButton": {
+		"ANDROID": "id=header_search_icon"
+	},
+	"searchBar": {
+		"ANDROID": "id=getQuote_editSearchBox"
+	},
+	"stocksCategory": {
+		"ANDROID": "xpath=//android.widget.LinearLayout/android.widget.TextView[contains(@text,'Stocks')]"
+	}
+}
