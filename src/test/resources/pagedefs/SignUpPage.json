@@ -1,0 +1,23 @@
+{
+	"siginUpTab": {
+		"DESKTOP_WEB": "xpath=//*[@id='signup_tab']"
+	},
+	"companyEmailTxt": {
+		"DESKTOP_WEB": "xpath=//input[@name='email' and @placeholder='Company Email']"
+	},
+	"passWordTxt": {
+		"DESKTOP_WEB": "xpath=//input[@name='email' and @placeholder='Company Email']/../following-sibling::div/input[@name='password']"
+	},
+	"phoneTxt": {
+		"DESKTOP_WEB": "xpath=//input[@name='email' and @placeholder='Company Email']/../following-sibling::div/input[@name='mobile']"
+	},
+	"dropApk": {
+		"DESKTOP_WEB": "xpath=//input[@id='apkFile']"
+	},
+	"upLoadSignUpBtn": {
+		"DESKTOP_WEB": "xpath=//input[@value='Upload & Signup']"
+	},
+	"progressBar": {
+		"DESKTOP_WEB": "xpath=//input[@value='Upload & Signup']/following-sibling::div[@id='myProgress']/label[contains(text(),'Uploading')]"
+	}
+}

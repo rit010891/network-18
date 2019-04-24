@@ -1,0 +1,4 @@
+[INFO ] [Thread:main] 2019-04-11 15:49:55,560 core.tests.SupportTest.runOncePerSuite:L86 - Central setup completed.
+[INFO ] [Thread:main] 2019-04-11 15:49:55,568 core.tests.SupportTest.runOncePerContext:L91 - Test context setup started for Surefire test test.
+[DEBUG] [Thread:main] 2019-04-11 15:49:55,569 central.AppachhiCentral.registerContext:L70 - Loading Test Data File at Path :: D:\MoneyControlProject\target\test-classes\data/ANDROID/testdata.ini
+[INFO ] [Thread:main] 2019-04-11 15:49:55,570 core.tests.SupportTest.runOncePerContext:L93 - Test context setup completed for Surefire test test.
